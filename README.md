@@ -33,3 +33,8 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
     - verlusttfrei
     - geeignet für Ozeankabel
     - teuer und schwierig in der Verarbeitung
+
+3. Funk / Radiowellen
+    - hoher Komfort, Internet überall
+    - hohe Verluste über Distanzen
+
