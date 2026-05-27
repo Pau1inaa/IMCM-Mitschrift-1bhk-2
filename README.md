@@ -13,3 +13,5 @@ Andere bekannte Auszeichnungssprachen sind:
 
 - wurde in den 1970 Jahren erfunden
 - Motivation: Schaffung eines dezentralen Netzwerks, das auch nach einem Atomschlag noch funktioniert (Kontext des Kalten Krieges)
+- Funktionsweise Paketvermittlung (*Paket Switching*) - jedes Datenpaket sucht sich eine eigene Route durch das Netzwerk
+- Internet: das Netz der Netze - besteht aus vielen kleinen Netzen unterschiedlicher Internetanbieter (*Internet Service Provider - ISP*, z.B.: A1, Magenta, Salzburg AG, ...)
