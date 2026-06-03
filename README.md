@@ -77,3 +77,4 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
 - Daten (Websiten, Bilder, Videos, usw.) werden mittels GET-Anfragen angefordert
 - User-Imput (Texteingaben, Dateiuploads, ...) werden mittels POST-Anfragen verschlüsselt übermittelt
 - GET und Host sind sogenannte **HTTP-Methoden**. Es gibt noch weitere Methoden die wir erst später lernen.
+- HTTP-Anfragen und Antworten können auch **Cookies** enthalten. Das sind kleine Textdateier die aus Schlüssel-Wert-Paaren (*key-value-pairs*) bestehen. Ist ein Cookie einmal besetzt wird es mit jeder Anfrage mitgesendet. So kann der Webserver einzelne User wiedererkennen bzw. identifizieren.
