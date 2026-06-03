@@ -51,4 +51,4 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
 - Daten die über das Internet versendet werden, werden in Pakete aufgeteilt
 - Pakete sind in der Regel rund 1500 Byte groß (=1.5 KB). Das heißt ein 10MB großes Foto würde in etwa 6667 Pakete aufgeteilt werden (10MB = 10.000KB = 10.000.000 Byte / 1500 Byte = 6667 Pakete)
 - Pakete können unterschiedliche Routen durch das INternet nehmen. Die Routenplanung erfolgt durch spezielle Computer - sogenannte Router. Router entscheiden, welchen Weg ein Paket durch das Internet nimmt. Die Entscheidung basiert auf verschiedenen Faktoren, wie z.B. der aktuelle Auslastung der Verbindungen und der Entfernung zum Ziel.
-- 
+- jedes Paket enthält die IP-Adressen der Quelle und des Ziels sowie die Reihenfolge der Pakete (damit sie am Ziel wieder korrekt zusammengesetzt werden können)
