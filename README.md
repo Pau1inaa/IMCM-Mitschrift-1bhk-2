@@ -53,3 +53,5 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
 - Pakete können unterschiedliche Routen durch das INternet nehmen. Die Routenplanung erfolgt durch spezielle Computer - sogenannte Router. Router entscheiden, welchen Weg ein Paket durch das Internet nimmt. Die Entscheidung basiert auf verschiedenen Faktoren, wie z.B. der aktuelle Auslastung der Verbindungen und der Entfernung zum Ziel.
 - jedes Paket enthält die IP-Adressen der Quelle und des Ziels sowie die Reihenfolge der Pakete (damit sie am Ziel wieder korrekt zusammengesetzt werden können)
 - am Ziel wird die Vollständigkeit der Pakete durch das *Transmission Control Protocol* (TCP) überprüft: Wenn Pakete verloren gehen vordert TCP die erneute Übertragung an. TCP und IP bilden gemeinsam die Basis für die Funktionsweise des Internets - man spricht auch vom TCP/IP-Modell.
+
+### Teil 5 - The Internet: HTTP and HTML
