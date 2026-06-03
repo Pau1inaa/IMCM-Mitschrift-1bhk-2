@@ -60,3 +60,16 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
 - der Ablauf ist immer der sekbe:
     1. der Web-Client (Browser) schickt eine HTTP-Anfrage (*Request*) an den Web-Server
     2. der Web-Server antwortet übernimmt die Anfrage bearbeitet sie und schickt eine Antwort (*Response*) zurück an den Client. Dabei versieht er die Antwort mit einem [HTTP-Statuscode](https://de.wikipedia.org/wiki/HTTP-Statuscode). Diese sind in verschiedenen Klassen eingeteilt.
+
+    > [!NOTE]
+    > #### HTTP-Statuscode-Klassen
+    >
+    > **1xx** - die Anfrage dauert noch an
+    >
+    > **2xx** - die Anfrage war erfolgreich
+    >
+    > **3xx** - Weiter- oder Umleitung
+    >
+    > **4xx** - Clientfehler (z.B. 404 - Not Found)
+    >
+    > **5xx** - Serverfehler
