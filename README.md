@@ -73,3 +73,6 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
     > **4xx** - Clientfehler (z.B. 404 - Not Found)
     >
     > **5xx** - Serverfehler
+
+    - Daten (Websiten, Bilder, Videos, usw.) werden mittels GET-Anfragen angefordert
+    - User-Imput (Texteingaben, Dateiuploads, ...) werden mittels POST-Anfragen verschlüsselt übermittelt
