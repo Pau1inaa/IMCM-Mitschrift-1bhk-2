@@ -74,5 +74,6 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
     >
     > **5xx** - Serverfehler
 
-    - Daten (Websiten, Bilder, Videos, usw.) werden mittels GET-Anfragen angefordert
-    - User-Imput (Texteingaben, Dateiuploads, ...) werden mittels POST-Anfragen verschlüsselt übermittelt
+- Daten (Websiten, Bilder, Videos, usw.) werden mittels GET-Anfragen angefordert
+- User-Imput (Texteingaben, Dateiuploads, ...) werden mittels POST-Anfragen verschlüsselt übermittelt
+- GET und Host sind sogenannte **HTTP-Methoden**. Es gibt noch weitere Methoden die wir erst später lernen.
