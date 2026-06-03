@@ -55,3 +55,8 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
 - am Ziel wird die Vollständigkeit der Pakete durch das *Transmission Control Protocol* (TCP) überprüft: Wenn Pakete verloren gehen vordert TCP die erneute Übertragung an. TCP und IP bilden gemeinsam die Basis für die Funktionsweise des Internets - man spricht auch vom TCP/IP-Modell.
 
 ### Teil 5 - The Internet: HTTP and HTML
+
+- das *Hypertext Transfer Protocol* (HTTP) ist das Protocol das für die übertragung von Websiten verwendet wird
+- der Ablauf ist immer der sekbe:
+    1. der Web-Client (Browser) schickt eine HTTP-Anfrage (*Request*) an den Web-Server
+    2. der Web-Server antwortet übernimmt die Anfrage bearbeitet sie und schickt eine Antwort (*Response*) zurück an den Client. Dabei versieht er die Antwort mit einem [HTTP-Statuscode](https://de.wikipedia.org/wiki/HTTP-Statuscode). Diese sind in verschiedenen Klassen eingeteilt.
