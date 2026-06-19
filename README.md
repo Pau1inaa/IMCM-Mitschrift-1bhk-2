@@ -9,6 +9,8 @@ Andere bekannte Auszeichnungssprachen sind:
 
 ## Playlist zur Funktionsweise des Internets
 
+![TCP/IP Protokoll und Verwendung von Schichten](/assets/https___miro.medium.com_v2_resize_fit_720_format_webp_1_g1GzSjM5-J3aN2wjVz6qKA.png)
+
 ### Teil 1 - What is the Internet?
 
 - wurde in den 1970 Jahren erfunden
@@ -89,3 +91,20 @@ Bits können über verschiedene Übertragungsmedien zwischen Computern versendet
     - Links, die auf meine Seite zeigen (*Backlinks*) 
 - die Suchergebnisse werden an die Benutzer*innen angepasst! D.h., nicht jede/r sieht die gleichen Informationen, selbst wenn sie idente Suchanfragen durchführen!
 - [Startpage](https://www.startpage.com/) ist eine datensparsame Suchmaschine, die ihren Benutzer*innen die Verwendung von Google ohne Tracking oder Personalisierung erlaubt
+
+---
+
+### Ergänzung: Überblick über das TCP/IP-Modell
+
+Im TCP/IP-Modell übernimmt jede Schicht eine eigene Aufgabe (merke: *"divide and conquer"*), hat einen eigenen Namen für die versendeten Dateneinheiten und einen eigenen Adressierungsmechanismus:
+
+| Schicht | Protokoll | Dateneinheit | Adressenmechanismus |
+|---      | ---       | ---          | ---                 |
+| Internet| IP        | Paket        | IP-Adressen         |
+|Transport| TCP       | Segment      | Ports               |
+| Link    | Ethernet  | Frame        | MAC-Adressen        |
+
+Die Daten der Anwendungsschiicht werden auf der Transportschicht in ein Segment verpackt.  Dieses wird in der Internetschicht in ein Paket verpackt; und dieses schlussendlich in der Link-Schicht in ein Frame.
+
+
+![Datenkapselung im TCP/IP-Modell](/assets/segment-packet-frame.jpg)
