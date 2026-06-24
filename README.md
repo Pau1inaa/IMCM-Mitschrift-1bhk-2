@@ -124,3 +124,5 @@ Die zentralen Bausteine von HTML sind sogenannte **Tags**. Tags können mithilfe
 ![HTML-Syntax](/assets/https___codetheweb.blog_assets_img_posts_html-syntax_tag-structure-2.png_%20class=_transparent)
 
 Ein HTML-Dokument ist hierarchisch aufgebaut. Wir sprechen in diesem Zusamenhang auch vom **DOM-Tree** (*Document Object Model*). Jedes HTML-Dokument ist aufgebaut wie ein Baum. Die Wurzel des Baumes ist der `<html>`-Tag. Auf der nächsten Ebene befinden sich die beiden Tags `<head>` und `<body>`. Im `<head>` finden sich in erster Linie Metadaten, die Informationen über dke Webpage enthalten, z.B. der Titel der Seite , die Sprache, die Zeichenkordierung usw. Im `<body>` finden sich die eigentlichen Inhalte der Webpage, z.B. Texte, Bilder, Videos, Links, usw.
+
+![DOM-Tree](/assets/DOM-Tree)
