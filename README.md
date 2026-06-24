@@ -116,3 +116,9 @@ Die Daten der Anwendungsschiicht werden auf der Transportschicht in ein Segment 
 ![HTML-CSS-JS](/assets/html-css-js.png)
 
 ### HTML - *Hypertext Markup Language*
+
+HTML gibt den Inhalten einer Website die Struktur vor. Die `index.html` ist üblicherweise der zentrale Einstiegspunkt für jede Website - alle weiteren Inhalte (Bilder, Videos, CSS-Stylesheets, JS-Skripte, usw.) werden über diese verknüpft.
+
+Die zentralen Bausteine von HTML sind sogenannte **Tags**. Tags können mithilfe von Attributen erweitert werden. Attribute sind Schlüssel-Wert-Paare (*key-value pairs*). Der HTML Quellcode einer Website wird vom Browser und von Suchmaschinen-Bots (*Crawler*) gelesen und interpretiert.
+
+![HTML-Syntax](/assets/https___codetheweb.blog_assets_img_posts_html-syntax_tag-structure-2.png_%20class=_transparent)
