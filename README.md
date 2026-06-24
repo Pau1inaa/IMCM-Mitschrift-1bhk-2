@@ -108,3 +108,11 @@ Die Daten der Anwendungsschiicht werden auf der Transportschicht in ein Segment 
 
 
 ![Datenkapselung im TCP/IP-Modell](/assets/segment-packet-frame.jpg)
+
+---
+
+## Webtechnologien: HTML, CSS und JS
+
+![HTML-CSS-JS](/assets/html-css-js.png)
+
+### HTML - *Hypertext Markup Language*
